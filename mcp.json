@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+      "weather": {
+        "command": "uv",
+        "args": [
+          "--directory",
+          "/home/shaman/Code/Shaman/MCP-Test/weather",
+          "run",
+          "main.py"
+        ],
+        "workingDirectory": "/home/shaman/Code/Shaman/MCP-Test/weather"
+      }
+    }
+  }
